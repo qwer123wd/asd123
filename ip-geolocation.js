@@ -115,7 +115,7 @@ async function request_web(url, headers) {
         }
         else {
             const obj = parse_wftismyip(direct_response.data);
-            geoinfo_direct = `直连IP: ${obj.ip} ${obj.country}, ${obj.isp}`
+            geoinfo_direct = `直连IP: \n${obj.loc}, ${obj.isp}`
         }
     }
 
@@ -129,7 +129,7 @@ async function request_web(url, headers) {
         }
         else {
             const obj = parse_ipgeolocation(proxy_response.data);
-            geoinfo_proxy = `代理IP: ${obj.ip} ${obj.country}, ${obj.isp}`
+            geoinfo_proxy = `代理IP: \n${obj.loc}, ${obj.isp}`
         }
     }
 
