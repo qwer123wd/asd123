@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "gaytube.com",
+        "phncdn.com",
+        "phprcdn.com",
+        "porngub.com",
+        "pornhub-deutsch.net",
+        "pornhubapparel.com",
+        "pornhub.com",
+        "pornhub.org",
+        "pornhubpremium.com",
+        "xvideos-cdn.com",
+        "xvideos.com",
+        "javdb.com",
+        "jdbimgs.com",
+        "jdbstatic.com"                
+      ],
+      "domain_suffix": [
+        ".gaytube.com",
+        ".phncdn.com",
+        ".phprcdn.com",
+        ".porngub.com",
+        ".pornhub-deutsch.net",
+        ".pornhubapparel.com",
+        ".pornhub.com",
+        ".pornhub.org",
+        ".pornhubpremium.com",
+        ".xvideos-cdn.com",
+        ".xvideos.com",
+        ".javdb.com",
+        ".jdbimgs.com",
+        ".jdbstatic.com",
+        ".missav.com",
+        ".missav123.com",
+        ".supjav.com",
+        ".91porn.com"
+      ]
+    }
+  ]
+}
