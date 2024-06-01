@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "www.googleapis.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "1drv.com",
+        "livefilestore.com",
+        "oneclient.sfx.ms",
+        "onedrive.com",
+        "onedrive.live.com",
+        "photos.live.com",
+        "sharepoint.com",
+        "sharepointonline.com",
+        "skydrive.wns.windows.com",
+        "spoprod-a.akamaihd.net",
+        "storage.live.com",
+        "storage.msn.com",
+        "docs.google.com",
+        "drive.google.com",
+        "googledrive.com",
+        "googleusercontent.com",
+        "mega.co.nz",
+        "mega.io",
+        "mega.nz"
+      ]
+    },       
+    {
+      "domain_keyword": [
+        "1drv",
+        "onedrive",
+        "skydrive"
+      ]
+    },
+    {
+      "ip_cidr": [
+        "85.206.24.0/22",
+        "6.203.126.0/23",
+        "4.24.36.0/23",
+        "2a0b:e40:1::/48",
+        "2a0b:e40:2::/47",
+        "2a0b:e41:1::/48",
+        "2a0b:e42:1::/48",
+        "2a0b:e43:1::/48",
+        "2a0b:e44:1::/48",
+        "2a0b:e45:1::/48"
+      ]
+    }    
+  ]
+}
