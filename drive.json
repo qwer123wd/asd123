@@ -3,7 +3,8 @@
   "rules": [
     {
       "domain": [
-        "www.googleapis.com"
+        "www.googleapis.com",
+        "notifications-pa.googleapis.com"
       ]
     },
     {
