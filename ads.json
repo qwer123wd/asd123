@@ -192,9 +192,16 @@
         "zz.bdstatic.com",
         "zzy1.quyaoya.com",
         "sogou.com",
-        "tsssaver.1conan.com"
+        "tsssaver.1conan.com",
+        "sginput.qq.com"
       ]
-    },       
+    }， 
+    {
+      "domain": [
+        "otheve.beacon.qq.com",
+        "oth.str.mdt.qq.com"
+      ]
+    },
     {
       "domain_regex": "^adservice\\.google\\.([a-z]{2}|com?)(\\.[a-z]{2})?$"
     }  
