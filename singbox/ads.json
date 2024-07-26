@@ -218,7 +218,13 @@
         "mtrace.qq.com",
         "push.qq.com",
         "pgdt.gtimg.cn",
-        "ugdtimg.com",
+        "ugdtimg.com"
+      ]
+    },
+    {
+      "domain": [
+        "otheve.beacon.qq.com",
+        "oth.str.mdt.qq.com",
         "errlog.umeng.com",
         "otheve.beacon.qq.com",
         "av1.xdrig.com",
@@ -319,12 +325,6 @@
         "ott.da.mgtv.com",
         "ott2.da.mgtv.com",
         "monitor.music.qq.com"        
-      ]
-    },
-    {
-      "domain": [
-        "otheve.beacon.qq.com",
-        "oth.str.mdt.qq.com"
       ]
     },
     {
