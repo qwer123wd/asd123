@@ -1,0 +1,45 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain": [
+        "adguardteam.github.io",
+        "adrules.top",
+        "anti-ad.net",
+        "api-jooxtt.sanook.com",
+        "joox.com",
+        "lens.l.google.com",
+        "local.adguard.org",
+        "mesu.apple.com",
+        "proxy.golang.org",
+        "static.adtidy.org",
+        "stun.l.google.com",
+        "swcdn.apple.com",
+        "swdist.apple.com",
+        "swdownload.apple.com",
+        "swquery.apple.com",
+        "swscan.apple.com",
+        "time-ios.apple.com",
+        "time1.cloud.tencent.com"
+      ],
+      "domain_suffix": [
+        "126.net",
+        "3gppnetwork.org",
+        "cmbchina.com",
+        "cmbimg.com",
+        "gcloudcs.com",
+        "gcloudsdk.com",
+        "ntp.org.cn",
+        "pool.ntp.org",
+        "time.edu.cn"
+      ],
+      "domain_regex": [
+        "ntp\\d*..*.com",
+        "time..*.apple.com",
+        "time..*.com",
+        "time..*.edu.cn",
+        "time..*.gov"
+      ]
+    }
+  ]
+}
