@@ -1,0 +1,81 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain": [
+        "www.googleapis.com",
+        "notifications-pa.googleapis.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "1drv.com",
+        "livefilestore.com",
+        "oneclient.sfx.ms",
+        "onedrive.com",
+        "onedrive.live.com",
+        "photos.live.com",
+        "sharepoint.com",
+        "sharepointonline.com",
+        "skydrive.wns.windows.com",
+        "spoprod-a.akamaihd.net",
+        "storage.live.com",
+        "storage.msn.com",
+        "docs.google.com",
+        "drive.google.com",
+        "googledrive.com",
+        "googleusercontent.com",
+        "mega.co.nz",
+        "mega.io",
+        "mega.nz",
+        "gaytube.com",
+        "phncdn.com",
+        "phprcdn.com",
+        "porngub.com",
+        "pornhub-deutsch.net",
+        "pornhubapparel.com",
+        "pornhub.com",
+        "pornhub.org",
+        "pornhubpremium.com",
+        "xvideos-cdn.com",
+        "xvideos.com",
+        "dmm.co.jp",
+        "sixyik.com",
+        "missav.com",
+        "missav123.com",
+        "client-rapi-missav.recombee.com",
+        "surrit.com",
+        "fivetiu.com",
+        "supjav.com",
+        "91porn.com",
+        "91selfie.com",
+        "cdnlab.live",
+        "jable.tv",
+        "mushroomtrack.com",
+        "javhhh.com",
+        "javmenu.com",
+        "sptvp.com",
+        "daydio.com",
+        "abcnowz.com",
+        "mushroomtrack.com",
+        "lovingpethomes.com",
+        "abcnewza.com",
+        "dhstrhsthshsz.sw-cdnstreamwish.com",
+        "fc2stream.tv",
+        "swiftgram.app",
+        "javdb.com",
+        "javdb008.com",
+        "jdbstatic.com",
+        "sponsor.ajay.app",
+        "textrapp.com"
+      ]
+    },       
+    {
+      "domain_keyword": [
+        "1drv",
+        "onedrive",
+        "skydrive"
+      ]
+    }
+  ]
+}
