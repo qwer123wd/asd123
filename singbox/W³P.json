@@ -1,0 +1,15 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain_suffix": [
+        "ariang.js.org",
+        "braze.com",
+        "linux.do",
+        "branch.io",
+        "crashlyticsreports-pa.googleapis.com",
+        "youversionapi.com"
+      ]
+    }
+  ]
+}
