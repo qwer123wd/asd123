@@ -2,6 +2,9 @@
   "version": 3,
   "rules": [
     {
+      "domain": [
+        "crashlyticsreports-pa.googleapis.com"
+      ],
       "domain_suffix": [
         "ariang.js.org",
         "braze.com",
@@ -15,7 +18,6 @@
         "chariz.com",
         "procurs.us",
         "getzbra.com",
-        "crashlyticsreports-pa.googleapis.com",
         "youversionapi.com"
       ]
     }
