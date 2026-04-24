@@ -3,9 +3,16 @@
   "rules": [
     {
       "domain": [
+        "apt.thebigboss.org",
+        "api.canister.me",
+        "tigisoftware.com",
+        "api.revenuecat.com",
+        "getconverter.org",
+        "byg.iosios.net",
         "crashlyticsreports-pa.googleapis.com"
       ],
       "domain_suffix": [
+        "ellekit.space",
         "ariang.js.org",
         "braze.com",
         "linux.do",
