@@ -2,11 +2,18 @@
   "version": 5,
   "rules": [
     {
+      "domain": [
+        "oci.zihuatanejo.top",
+        "bwh.zihuatanejo.top",
+        "dt.zihuatanejo.top"
+      ],
       "domain_suffix": [
-        "baiqiuenyaofang.com",
-        "zihuatanejo.top",
-        "cmpassport.com",
         "guwendao.net"
+      ],
+      "ip_cidr": [
+        "58.180.71.55/32",
+        "69.63.192.84/32",
+        "23.106.132.106/32"
       ]
     }
   ]
